@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sLZUJmFHFgBPHqvFn/TzAFHGPCYVK3HD7Znj+ZNo+3EVCPfqdQnOS/SvS6YGSbYzkU8Na9xaRVNa/5iTcJYgRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kotam\\OneDrive\\Рабочий стол\\учеба\\C#\\Перекидыш\\Перекидыш.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kotam\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

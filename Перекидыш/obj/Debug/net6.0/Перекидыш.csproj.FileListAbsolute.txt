@@ -1,0 +1,17 @@
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\bin\Debug\net6.0\Перекидыш.exe
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\bin\Debug\net6.0\Перекидыш.deps.json
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\bin\Debug\net6.0\Перекидыш.runtimeconfig.json
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\bin\Debug\net6.0\Перекидыш.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\bin\Debug\net6.0\Перекидыш.pdb
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\obj\Debug\net6.0\Перекидыш.csproj.AssemblyReference.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\obj\Debug\net6.0\Перекидыш.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\obj\Debug\net6.0\Перекидыш.AssemblyInfoInputs.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\obj\Debug\net6.0\Перекидыш.AssemblyInfo.cs
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\obj\Debug\net6.0\Перекидыш.csproj.CoreCompileInputs.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\obj\Debug\net6.0\Перекидыш.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\obj\Debug\net6.0\refint\Перекидыш.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\obj\Debug\net6.0\Перекидыш.pdb
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\obj\Debug\net6.0\Перекидыш.genruntimeconfig.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\obj\Debug\net6.0\ref\Перекидыш.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Перекидыш\obj\Debug\net6.0\Перекидыш.csproj.CopyComplete
